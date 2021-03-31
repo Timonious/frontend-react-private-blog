@@ -1,0 +1,23 @@
+#home-page {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    background: url('./writing-back-top.jpg') no-repeat fixed;
+
+}
+
+p {
+    max-width: 500px;
+    box-shadow: black 1px 1px 3px;
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 6px;
+}
+
+.text {
+    box-shadow: black 1px 1px 3px;
+    border-radius: 5px;
+    padding: 6px;
+    background-color: burlywood;
+}

@@ -1,0 +1,8 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    background: url('./message.jpg') no-repeat center center fixed;
+
+}

@@ -1,0 +1,13 @@
+#posts {
+    background: url('./writing2.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+#post-text {
+    max-width: 1290px;
+    margin-bottom: 100px;
+}
