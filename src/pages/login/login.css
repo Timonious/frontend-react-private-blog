@@ -1,0 +1,24 @@
+#login-page {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+    align-items: center;
+    background: url('./locked.jpg') no-repeat center fixed;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 280px;
+}
+label {
+    display: flex;
+    align-content: center;
+    margin: 20px;
+}
+
+.error {
+    color: red;
+
+}
